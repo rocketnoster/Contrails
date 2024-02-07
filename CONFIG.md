@@ -42,8 +42,7 @@ KAMITSUBAKI
 > - 可不可
 > - 多様性
 > - デザイン
-> - よろしく
-
+> 
 # safeMode
 
 > Safe mode limits the total number of API calls coming from Cloudflare.
