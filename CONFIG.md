@@ -15,7 +15,7 @@ KAMITSUBAKI
 
 > This is the description of the feed.
 
-観測者向けに　#花譜 #理芽　#春猿火　#ヰ世界情緒　#幸祜　#CIEL　#廻花　のハッシュタグが付いた投稿をリスト化します。
+観測者向けに　花譜 理芽　春猿火　ヰ世界情緒　幸祜　CIEL　廻花　の投稿をリスト化します。
 
 # searchTerms
 
@@ -40,6 +40,9 @@ KAMITSUBAKI
 > - did:plc:1234
 > - @spamspamspam.bsky.social
 > - 可不可
+> - 多様性
+> - デザイン
+> - よろしく
 
 # safeMode
 
