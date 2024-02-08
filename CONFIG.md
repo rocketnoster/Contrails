@@ -15,7 +15,7 @@ KAMITSUBAKI
 
 > This is the description of the feed.
 
-観測者向けに　花譜 理芽　春猿火　ヰ世界情緒　幸祜　CIEL　廻花　の投稿をリスト化します。
+観測者向けに　花譜 理芽　春猿火　ヰ世界情緒　幸祜　廻花　という文字が含まれた投稿をリスト化します
 
 # searchTerms
 
@@ -30,7 +30,6 @@ KAMITSUBAKI
 - "春猿火"
 - "ヰ世界情緒"
 - "幸祜"
-- "CIEL"
 - "廻花"
 
 # denyList
@@ -40,9 +39,24 @@ KAMITSUBAKI
 > - did:plc:1234
 > - @spamspamspam.bsky.social
 > - 可不可
-> - 多様性
-> - デザイン
-> 
+> - 死
+> - 嫌
+> - 馬鹿
+> - バカ
+> - 阿保
+> - 安保
+> - キモ
+> - ダサ
+> - ウザ
+> - 臭い
+> - クサ
+> - 草
+> - 邪魔
+> - ジャマ
+> - クソ
+> - ハゲ
+> - デブ
+> - カス
 # safeMode
 
 > Safe mode limits the total number of API calls coming from Cloudflare.
