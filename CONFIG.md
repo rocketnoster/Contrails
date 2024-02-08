@@ -57,6 +57,7 @@ KAMITSUBAKI
 > - ハゲ
 > - デブ
 > - カス
+> - 百花譜
 # safeMode
 
 > Safe mode limits the total number of API calls coming from Cloudflare.
