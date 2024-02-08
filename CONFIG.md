@@ -73,6 +73,12 @@ KAMITSUBAKI
 > - デブ
 > - カス
 > - 百花譜
+> - 「百花譜」
+> - 玩草亭百花譜
+> - 「玩草亭百花譜」
+> - 薔薇花譜
+> - 「薔薇花譜」
+> - 植物画
 # safeMode
 
 > Safe mode limits the total number of API calls coming from Cloudflare.
