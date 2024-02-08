@@ -85,7 +85,7 @@ KAMITSUBAKI
 >
 > Set to `false` if you have higher limits via a paid Cloudflare plan.
 
-false
+- false
 
 # avatar
 
