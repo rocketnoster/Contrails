@@ -31,16 +31,6 @@ KAMITSUBAKI
 - "ヰ世界情緒"
 - "幸祜"
 - "廻花"
-- "観測者花組"
-- "観測者芽組"
-- "観測者春組"
-- "観測者ヰ組"
-- "観測者幸組"
-- "花譜美術部"
-- "理芽美術部"
-- "春猿火美術部"
-- "ヰ世界情緒美術部"
-- "幸祜美術部"
 
 # denyList
 
@@ -48,7 +38,7 @@ KAMITSUBAKI
 >
 > - did:plc:1234
 > - @spamspamspam.bsky.social
-> - "百花譜"
+
 # safeMode
 
 > Safe mode limits the total number of API calls coming from Cloudflare.
