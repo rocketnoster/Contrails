@@ -31,7 +31,6 @@ KAMITSUBAKI
 - "ヰ世界情緒"
 - "幸祜"
 - "廻花"
-- "DUSTCELL"
 - "観測者花組"
 - "観測者芽組"
 - "観測者春組"
@@ -42,11 +41,7 @@ KAMITSUBAKI
 - "春猿火美術部"
 - "ヰ世界情緒美術部"
 - "幸祜美術部"
-- "花達と椿と君。"
-- "神椿報奏部"
-- "神椿外交課"
-- "神椿市建設中。"
-- 
+
 # denyList
 
 > Deny list will exclude any results from a given user. You can provide the username or DID.
